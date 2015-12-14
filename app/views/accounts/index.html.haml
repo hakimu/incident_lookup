@@ -1,0 +1,9 @@
+%h2 This is the index for accounts
+
+- @accounts.each do |account|
+  %p= account.sales_priority
+  %p= account.name
+  %p= account.owner
+  %p= account.collector
+  %p= account.shard
+  %p= account.expiration

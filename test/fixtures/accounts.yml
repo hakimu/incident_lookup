@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: 1
+  sales_priority: 1
+  name: MyString
+  owner: MyString
+  collector: MyString
+  shard: MyString
+  beacon: MyString
+  created: 2015-12-08 22:39:35
+  expiration: 2015-12-08 22:39:35
+
+two:
+  number: 1
+  sales_priority: 1
+  name: MyString
+  owner: MyString
+  collector: MyString
+  shard: MyString
+  beacon: MyString
+  created: 2015-12-08 22:39:35
+  expiration: 2015-12-08 22:39:35

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  component: MyString
+  collector: MyString
+  severity: 1
+  description: MyString
+  banner_message: MyString
+  customer_imapct: MyString
+
+two:
+  component: MyString
+  collector: MyString
+  severity: 1
+  description: MyString
+  banner_message: MyString
+  customer_imapct: MyString
